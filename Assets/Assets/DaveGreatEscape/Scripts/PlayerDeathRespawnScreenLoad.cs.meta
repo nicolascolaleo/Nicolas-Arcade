@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 35ab3beb47fb4714ebfd077641097841
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ClockEffect: {fileID: 2258374502066496425, guid: 19ff20f5c9f006c47b4814a04c8b0fd0, type: 3}
+  - CircleEffect: {fileID: 8166031874511199061, guid: 616d6d5ad57b6924ca0270a3a0a727d0, type: 3}
+  - SnakeEffect: {fileID: 6773062799521661742, guid: c171d89709563cb4faf8de3db253ab75, type: 3}
+  - StripesEffect: {fileID: 2048509524544360782, guid: 64aba422aedb5f54c8ee04bd1a23cfdc, type: 3}
+  - AfterResetEffect: {instanceID: 0}
+  - ArcadeMachine: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

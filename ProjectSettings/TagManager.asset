@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Parallax
+  - enemy
+  - alien
+  - projectile
+  - Wrong
+  - PointerQuizGame
+  - Correct
+  - Bricks
+  - Buff
+  - extendBuff
+  - Ball
+  - DoubleBallBuff
+  - MovingPlatform
+  - Boss
+  - StaticSideScrollers
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - AlienLayer
+  - Water
+  - UI
+  - Player
+  - Buffs
+  - Ball
+  - Ground
+  - Structure
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

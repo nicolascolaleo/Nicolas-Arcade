@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6d0b5af78302d224db3f011bf730b45b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rightSprite: {instanceID: 0}
+  - leftSprite: {instanceID: 0}
+  - staticSprite: {instanceID: 0}
+  - player: {instanceID: 0}
+  - projectile: {fileID: 8655544246989004753, guid: d57dfeb7604bb8647af4301e9b11dfdb, type: 3}
+  - projectileClone: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
